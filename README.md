@@ -33,7 +33,7 @@ src/
 │
 ├── components/
 │ ├── Dashboard.jsx # Displays Power BI dashboards
-│ ├── Prediction.jsx # Displays prediction image
+│ ├── Prediction.js # Displays prediction image
 │ ├── prediction.png # Image used in Prediction page
 │
 ├── App.js # Routing logic
